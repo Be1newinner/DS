@@ -1,0 +1,4 @@
+dog_breed_identification/test
+dog_breed_identification/train
+*.csv
+*.xlsx
